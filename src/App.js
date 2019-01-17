@@ -47,7 +47,7 @@ class TodoList extends Component {
 
     return (
       <div className="todo-list">
-        <h1>To do List</h1>
+        <h1>To Do List</h1>
         <p> < / > <p/>
         <p> Iftekhar Ahmad Chowdhury </p>
         <p> New York, NY </p>
